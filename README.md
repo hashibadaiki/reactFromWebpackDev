@@ -4,6 +4,16 @@ webpackへの理解を深めるための公開リポジトリ
 
 随時更新していく
 
+## 環境構築
+
+### モジュールインストール
+
+`npm install`
+
+### webpack起動
+
+`npm run build`
+
 ## 参考サイト
 
 [webpack公式](https://webpack.js.org/)
